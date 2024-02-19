@@ -1,0 +1,32 @@
+<h2 id="鸣谢大佬">鸣谢大佬：</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">昵称</th>
+      <th style="text-align: center">金额</th>
+      <th style="text-align: center">途径</th>
+      <th style="text-align: center">时间</th>
+      <th style="text-align: center">备注</th>
+      <th style="text-align: center">致谢</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">大胖</td>
+      <td style="text-align: center">6.66</td>
+      <td style="text-align: center">微信</td>
+      <td style="text-align: center">2018-11-29 18:24</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">一看就有个很好的男朋友</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">虚位以待</td>
+      <td style="text-align: center">—</td>
+      <td style="text-align: center">—</td>
+      <td style="text-align: center">—</td>
+      <td style="text-align: center">—</td>
+      <td style="text-align: center">—</td>
+    </tr>
+  </tbody>
+</table>
