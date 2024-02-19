@@ -7,7 +7,7 @@ tags:
 - google
 ---
 
-## Emoji cheat sheet google
+## emoji cheat sheet google
 
 😀
 😃
