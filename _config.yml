@@ -16,7 +16,9 @@ exclude: ["README.md", "changelog.md", "server", "tools", "Pipfile"]
 plugins:
   - jekyll-paginate
   - jemoji
-
+# jemoji settings  
+gems:
+    -jemoji
 
 # always get github's error email saying redcarpet is not supported,
 # so change it to kramdown.
@@ -81,8 +83,8 @@ codehub: # 代码仓库
 
 valine:
   enable: true
-  app_id:  K1rbn2Oo0YMM04VuzdLS7N
-  app_key: AAsHbwVm8ofKFJ6g
+  app_id:  K1rbn2Oo0YMM0
+  app_key: AAsHbwVm8ofK
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   visitor: true
