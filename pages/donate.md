@@ -30,7 +30,7 @@ permalink: /donate/
       </span>
     </a>
           </td>
-        <td>><a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
+        <td>> <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
       <img src="https://archive.vip/apple-touch-icon.png" alt="archive.vip" width="32" height="32" class="rounded me-2" loading="lazy">
       <span>
         <strong>档案</strong> archive.vip
