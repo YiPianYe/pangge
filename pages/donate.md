@@ -10,11 +10,8 @@ permalink: /donate/
 
 <h2>赞助方式</h2>
 
-|您可以选择手机支付宝扫一扫 | 您也可以选择手机微信扫一扫|
-|:---------:|:-------:|:----------------:|
-| https://yxw.me/img/zfb.jpg| https://yxw.me/img/weixin.jpg|
 
-<table style="border: 1px solid black;" border="1px">
+<table>
     <thead>
     <tr>
         <th>列 1</th>
@@ -23,15 +20,15 @@ permalink: /donate/
     </thead>
     <tbody>
     <tr>
-        <td><a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
-      <img src="https://archive.vip/apple-touch-icon.png" alt="archive.vip" width="32" height="32" class="rounded me-2" loading="lazy">
+        <td><a href="https://yxw.me/img/weixin.jpg">
+      <img src="https://yxw.me/img/weixin.jpg" alt="微信" width="32" height="32">
       <span>
         <strong>档案</strong> archive.vip
       </span>
     </a>
           </td>
-        <td> <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
-      <img src="https://archive.vip/apple-touch-icon.png" alt="archive.vip" width="32" height="32" class="rounded me-2" loading="lazy">
+        <td> <a href="https://yxw.me/img/zfb.jpg">
+      <img src="https://yxw.me/img/zfb.jpg" alt="支付宝" width="32" height="32">
       <span>
         <strong>档案</strong> archive.vip
       </span>
