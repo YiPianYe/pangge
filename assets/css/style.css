@@ -99,13 +99,13 @@ a:focus {
     display: inline-block;
     padding: 3px 20px 3px;
     line-height: 30px;
-    color: #1e90ff;
+    color: #8d1eff;
     font-size: 13px;
     border: 1px solid transparent;
 }
 
 #header #nav-menu a:hover {
-    border-bottom-color: #1e90ff;
+    border-bottom-color: #8d1eff;
 }
 
 #header #nav-menu a.current {
@@ -202,13 +202,13 @@ a:focus {
 /* #421eff.#555* #007ef9 #1e90ff #1e45ff #421eff #8d1eff ,#444, #6E7173 */
 .post .post-title {
     margin: 0;
-    color: #421eff;
+    color: #1e90f;
     text-align: left;
     font: bold 25px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif;
 }
 
 .post .post-title a {
-    color: #421eff;
+    color: #1e90f;
 }
 
 .post .post-meta {
