@@ -1,9 +1,9 @@
 ---
-title:  "Emoji-cheat-sheet-google"
+title:  "emoji-cheat-sheet-google"
 date:   2022-10-10
-description: Emoji
+description: emoji
 tags:
-- Emoji
+- emoji
 - google
 ---
 
