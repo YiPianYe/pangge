@@ -1,11 +1,11 @@
 # Site settings
 title: 胖哥
-subtitle: 🔥🔥🔥
+subtitle: PangGe🔥🔥🔥
 keywords: PangGe,胖哥
 description: 天空虽有乌云,但乌云的上面,永远会有太阳在照耀！
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pang.ge" # 你的域名
-page_no_title: "PangGe,胖哥" # 文章无标题时默认显示内容
+page_no_title: "PangGe👨‍👩‍👧‍👦胖哥" # 文章无标题时默认显示内容
 beian: # "备案号"
 author: PangGe
 email: helloworkdev@gmail.com
