@@ -13,4 +13,3 @@ permalink: /donate/
 |:---------:|:-------:|:----------------:|
 | ![支付宝转账二维码](/assets/imgs/ali_pay.png) | ![微信转账二维码](/assets/imgs/wechat_pay.png)| 
 
----
