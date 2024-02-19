@@ -11,7 +11,7 @@ Pang.ge 注册2018-06-27
 
 一直是欢迎页面迎接八方宾客
 
-2024年用Jekyll，一键Fork
+2024年,Jekyll，一键Fork
 
 微改CSS颜色
 
