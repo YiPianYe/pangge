@@ -1,7 +1,7 @@
 ---
 title:  "emoji-cheat-sheet"
 date:   2020-10-11
-description: emoj
+description: emoji
 ---
 
 😀
