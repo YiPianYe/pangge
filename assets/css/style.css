@@ -202,13 +202,13 @@ a:focus {
 /* #421eff.#555* #007ef9 #1e90ff #1e45ff #421eff #8d1eff ,#444, #6E7173 */
 .post .post-title {
     margin: 0;
-    color: #1e90ff;
+    color: #1e45ff;
     text-align: left;
     font: bold 25px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif;
 }
 
 .post .post-title a {
-    color: #1e90ff;
+    color: #1e45ff;
 }
 
 .post .post-meta {
