@@ -21,17 +21,11 @@ permalink: /donate/
     <tbody>
     <tr>
         <td><a href="https://yxw.me/img/weixin.jpg">
-      <img src="https://yxw.me/img/weixin.jpg" alt="微信" width="32" height="32">
-      <span>
-        <strong>档案</strong> archive.vip
-      </span>
+      <img src="https://yxw.me/img/weixin.jpg" alt="微信" width="50" height="50">
     </a>
           </td>
         <td> <a href="https://yxw.me/img/zfb.jpg">
-      <img src="https://yxw.me/img/zfb.jpg" alt="支付宝" width="32" height="32">
-      <span>
-        <strong>档案</strong> archive.vip
-      </span>
+      <img src="https://yxw.me/img/zfb.jpg" alt="支付宝" width="100" height="100">
     </a>
         </td>
     </tr>
