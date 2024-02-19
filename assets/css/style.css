@@ -33,7 +33,7 @@ body {
 }
 /** #007ef9 #1e90ff #1e45ff #421eff #8d1eff  #6E7173 */
 a, button.submit {
-    color: #421eff;
+    color: #007ef9;
     text-decoration: none;
     -webkit-transition: all .1s ease-in;
     -moz-transition: all .1s ease-in;
@@ -99,13 +99,13 @@ a:focus {
     display: inline-block;
     padding: 3px 20px 3px;
     line-height: 30px;
-    color: #8d1eff;
+    color: #1e45ff;
     font-size: 13px;
     border: 1px solid transparent;
 }
 
 #header #nav-menu a:hover {
-    border-bottom-color: #8d1eff;
+    border-bottom-color: #1e45ff;
 }
 
 #header #nav-menu a.current {
