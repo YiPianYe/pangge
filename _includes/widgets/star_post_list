@@ -1,0 +1,19 @@
+<!-- _includes-widgets-star_post_list -->
+<div class="widget">
+    <div class="widget-title"><i class="icon-star"> 推荐文章</i></div>
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="#">What</a></li>
+    </ul>
+
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="#">Helloworld</a></li>
+    </ul>
+
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="#">博客搭建历程</a></li>
+    </ul>
+
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="#">寒事今牢落，人生亦有初</a></li>
+    </ul>
+</div>
