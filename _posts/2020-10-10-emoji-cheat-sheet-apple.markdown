@@ -1,5 +1,5 @@
 ---
-title:  "emoji-cheat-sheet"
+title:  "emoji-cheat-sheet-apple"
 date:   2020-10-10
 description: emoji
 tags:
