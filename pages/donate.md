@@ -17,8 +17,8 @@ permalink: /donate/
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><img src="https://yxw.me/img/zfb.jpg" alt="支付宝转账二维码" /></td>
-      <td style="text-align: center"><img src="https://yxw.me/img/weixin.jpg" alt="微信转账二维码" /></td>
+      <td style="text-align: center"><img src="https://yxw.me/img/zfb.jpg" alt="支付宝转账二维码" width="200" height="200"/></td>
+      <td style="text-align: center"><img src="https://yxw.me/img/weixin.jpg" alt="微信转账二维码" width="200" height="200"/></td>
     </tr>
   </tbody>
 </table>
@@ -38,7 +38,7 @@ permalink: /donate/
     <tbody>
     <tr>
         <td><a href="https://yxw.me/img/weixin.jpg">
-      <img src="https://yxw.me/img/weixin.jpg" alt="微信" width="50" height="50">
+      <img src="https://yxw.me/img/weixin.jpg" alt="微信" width="200" height="200">
     </a>
           </td>
         <td> <a href="https://yxw.me/img/zfb.jpg">
