@@ -99,13 +99,13 @@ a:focus {
     display: inline-block;
     padding: 3px 20px 3px;
     line-height: 30px;
-    color: #1e45ff;
+    color: #8d1eff;
     font-size: 13px;
     border: 1px solid transparent;
 }
 
 #header #nav-menu a:hover {
-    border-bottom-color: #1e45ff;
+    border-bottom-color: #8d1eff;
 }
 
 #header #nav-menu a.current {
