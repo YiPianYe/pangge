@@ -1,5 +1,5 @@
 ---
-title:  "Emoji-cheat-sheet-Windows"
+title:  "emoji-cheat-sheet-Windows"
 date:   2021-10-10
 description: emoji
 tags:
