@@ -17,8 +17,6 @@ plugins:
   - jekyll-paginate
   - jemoji
 # jemoji settings  
-gems:
-    -jemoji
 
 # always get github's error email saying redcarpet is not supported,
 # so change it to kramdown.
