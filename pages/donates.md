@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 打赏作者
-permalink: /donate/
+permalink: /donates/
 ---
 
 <style type="text/css">
