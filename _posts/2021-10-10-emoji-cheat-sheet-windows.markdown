@@ -1,9 +1,9 @@
 ---
 title:  "Emoji-cheat-sheet-Windows"
 date:   2021-10-10
-description: Emoji
+description: emoji
 tags:
-- Emoji
+- emoji
 - Windows
 ---
 
