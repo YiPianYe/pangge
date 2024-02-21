@@ -15,7 +15,7 @@ Pang.ge 注册2018-06-27
 
 微改CSS颜色
 
-Darkmode.JS一键夜间模式
+~~Darkmode.JS一键夜间模式~~
 
 才有现在的页面
 
@@ -42,3 +42,17 @@ WeChat; WorkGroupPro
 ```html
 +13133896888 text message
 ```
+# 社交网站
+
+别人有的我不能没有吧！
+
+用不用是另外一回事！
+
+```
+[facebook](https://www.facebook.com/workgroupro)
+```
+
+```
+[Twitter](https://twitter.com/workgroupro)
+```
+
