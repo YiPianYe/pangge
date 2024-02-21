@@ -49,7 +49,7 @@ WeChat; WorkGroupPro
 用不用是另外一回事！
 
 ```
-[facebook](https://www.facebook.com/workgroupro)
+[facebook](https://www.facebook.com/workering)
 ```
 
 ```
