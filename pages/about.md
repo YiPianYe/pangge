@@ -48,9 +48,17 @@ WeChat; WorkGroupPro
 
 用不用是另外一回事！
 
+**vk.com**
+
+```
+[VK]https://vk.com/workgroupro
+```
+**FaceBook**
+
 ```
 [facebook](https://www.facebook.com/workering)
 ```
+**Twitter**
 
 ```
 [Twitter](https://twitter.com/workgroupro)
