@@ -11,26 +11,19 @@
         <meta name="description" content="404" />
         <meta property="title" content="404 " />
         <meta property="description" content="404" />
-		
+
         <!-- ================= Favicons ================== -->
         <!-- Standard -->
-        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="shortcut icon" href="img/favicon.png">
         <!-- Retina iPad Touch Icon-->
-        <link rel="apple-touch-icon" sizes="144x144" href="favicon.png">
-        <!-- Retina iPhone Touch Icon-->
-        <link rel="apple-touch-icon" sizes="114x114" href="favicon.png">
-        <!-- Standard iPad Touch Icon--> 
-        <link rel="apple-touch-icon" sizes="72x72" href="favicon.png">
-        <!-- Standard iPhone Touch Icon--> 
-        <link rel="apple-touch-icon" sizes="57x57" href="favicon.png">
-
 		<!-- ============== Resources style ============== -->
 		<link rel="stylesheet" type="text/css" href="https://yxw.me/page/2/css/style.css" />
 	</head>
 
-	<body>
+	<body class="bubble">
 
-        <canvas id="dotty"></canvas>
+        <canvas id="canvasbg"></canvas>
+        <canvas id="canvas"></canvas>
 
         <!-- Your logo on the top left -->
         <a href="#" class="logo-link" title="back home">
@@ -63,7 +56,7 @@
                     </div>
 
                     <!-- The animated searching tool -->
-                    <i class="fa fa-search" aria-hidden="true"></i>
+                    <i class="fa fa-search color" aria-hidden="true"></i>
 
                     <!-- div clearing the float -->
                     <div class="clear"></div>
@@ -75,16 +68,14 @@
 
                 <p>The page you were looking for doesn't exist.<br>
                     We think the page may have moved.</p>
-                    <li><a href="#">Home</a></li>
-		    <a href="#">Home</a>
-		        
+             <h2> <a href="index.html">返回首页</a> </h2>
             </div>
 
         </div>
 
         <footer class="light">
- <!-- 
-            <ul>
+        <!-- Your text -->
+          <!--   <ul>
                 <li><a href="#">Home</a></li>
 
                 <li><a href="#">Search</a></li>
@@ -98,8 +89,7 @@
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            </ul>
-		 -->
+            </ul> -->
 
         </footer>
 
@@ -111,8 +101,8 @@
         <script src="https://yxw.me/page/2/js/jquery.min.js"></script>
         <script src="https://yxw.me/page/2/js/bootstrap.min.js"></script>
 
-        <!-- Mozaic plugin -->
-        <script src="https://yxw.me/page/2/js/mozaic.js"></script>
+        <!-- Bubble plugin -->
+        <script src="https://yxw.me/page/2/js/bubble.js"></script>
 
     </body>
 
